@@ -5,8 +5,10 @@
 [WindHawk Setup](https://ramensoftware.com/downloads/windhawk_setup.exe)
 ## WinUtil & WinActivate
 - Run in powershell as an Administrator
-```sh
+```
 iex (irm 'https://christitus.com/win')
+```
+```
 iex (irm 'activated.run/key')
 ```
 ## AMD Drivers
