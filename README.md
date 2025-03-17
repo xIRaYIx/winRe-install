@@ -1,6 +1,8 @@
 # ---------------------------------------------------
 ## Windows 11 IoT Enterprise LTSC
 [archive.org](https://archive.org/details/windows-11-iot-enterprise-ltsc-2024)
+## Windows 10 IoT Enterprise LTSC
+[archive.org](https://archive.org/details/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f_202301)
 ## Windhawk
 [WindHawk Setup](https://ramensoftware.com/downloads/windhawk_setup.exe)
 ## WinUtil & WinActivate
