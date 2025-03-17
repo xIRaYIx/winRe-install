@@ -17,3 +17,5 @@ iex (irm 'activated.run/key')
 [Drivers](https://sourceforge.net/projects/radeon-id-distribution/files/Release%20Polaris-Vega-Navi/)
 
 [GUI Settings](https://sourceforge.net/projects/radeon-id-distribution/files/Dependencies/V5.5/)
+## Zapret
+[GIT](https://github.com/Flowseal/zapret-discord-youtube/releases)
